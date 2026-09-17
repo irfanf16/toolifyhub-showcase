@@ -40,13 +40,6 @@ Full-stack engineer
 **Containerised.** Full docker-compose stack for reproducible local and production environments.
 
 
-## Screenshots
-
-<!-- ![Tool Directory](docs/tool-directory.png) -->
-<!-- ![Tool Detail](docs/tool-detail.png) -->
-<!-- ![Account Quota](docs/account-quota.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
