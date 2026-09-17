@@ -7,7 +7,7 @@ One platform hosting 39 separate utilities behind a single account, quota and bi
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — platform architecture, tool plugin model, AI integration and deployment.
+Full-stack engineer
 
 ## Architecture
 
